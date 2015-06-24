@@ -21,4 +21,8 @@ For(O,1,10,9
 Output(O,N,"-
 End
 End
+For(O,2,9
+Output(O,1,"|
+Output(O,20,"|
+End
 End
