@@ -1,0 +1,3 @@
+main{str q="MeVeEaMaJuSaUrNePl";int w=q.indexOf(a[0].subs(0,2))/2,e=q.indexOf(a[1].subs(0,2))/2,m=1,t=e,d[]={5029,4140,7834,55039,64627,144895,162745,140538};lg h = 0;@i(w>e){e=w;w=t;m=-1;}@f(;e--^^w;)h+=d[e]*10000;echo(h*m);}
+
+//http://codegolf.stackexchange.com/a/53177/41711
